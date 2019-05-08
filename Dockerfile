@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM alpine:3.1
 
 ENV PHANTOMJS_VERSION 2.1.1
 COPY *.patch /
